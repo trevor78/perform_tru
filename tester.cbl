@@ -19,3 +19,6 @@
 
           E-PARA.
           DISPLAY 'IN E-PARA'.
+       DATA DIVISION.
+       WORKING-STORAGE SECTION.
+       COPY ABC.
